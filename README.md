@@ -1,5 +1,7 @@
 # WikiMovies
-React/Python App that allows you to retrieve via WikiData and Wikipedia the different information about movies, actors, film series.
+React/Python App connected to WikiData and Wikipedia.
+
+It displays for each movie the different information related to it ( actors, film series, etc.).
 
 The queries on the Wikidata database were coded in SPARQL. The back-end is coded in Python and the front-end in React.
 
